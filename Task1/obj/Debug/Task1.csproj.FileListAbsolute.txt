@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkSerializer\Task1\bin\Debug\Task1.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkSerializer\Task1\bin\Debug\Task1.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkSerializer\Task1\bin\Debug\Task1.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkSerializer\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkSerializer\Task1\obj\Debug\Task1.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkSerializer\Task1\obj\Debug\Task1.pdb
